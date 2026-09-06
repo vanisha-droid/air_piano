@@ -6,4 +6,5 @@ Commands to run the program:
     source ~/mp-env/bin/activate
     pip install mediapipe==0.10.14 opencv-python
     pip install mediapipe
+	pip install pygame
     python3 path/to/piano.py
